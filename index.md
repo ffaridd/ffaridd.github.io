@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+## I'll try to keep here some technical notes
+i am happy to share what I know, be open mind
 
 You can use the [editor on GitHub](https://github.com/ffaridd/ffaridd.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
