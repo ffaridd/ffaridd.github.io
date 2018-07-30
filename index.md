@@ -28,7 +28,6 @@ Syntax highlighted code block
 ### Code:
 
 
-```markdown
 ```bash
 counter=1
 while [ $counter -le 10 ]
@@ -37,7 +36,6 @@ echo $counter
 ((counter++))
 done
 echo All done
-```
 ```
 [Link](url) and ![Image](src)
 
