@@ -1,6 +1,6 @@
 # My First Title
-## Welcome to GitHub Pages
-## I'll try to keep here some technical notes
+1. ## Welcome to GitHub Pages
+1. ## I'll try to keep here some technical notes
 i am happy to share what I know, be open mind
 
 You can use the [editor on GitHub](https://github.com/ffaridd/ffaridd.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -25,7 +25,16 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
+###Code:
+`
+counter=1
+while [ $counter -le 10 ]
+do
+echo $counter
+((counter++))
+done
+echo All done
+`
 [Link](url) and ![Image](src)
 ```
 
