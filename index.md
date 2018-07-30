@@ -25,7 +25,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-###Code:
+### Code:
 `
 counter=1
 while [ $counter -le 10 ]
